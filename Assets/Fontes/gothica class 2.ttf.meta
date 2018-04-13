@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b53e5315fd0d6534ebf8f277ed6f39ba
+timeCreated: 1521734578
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Antraxja  Goth 1938
+  fontNames:
+  - Antraxja  Goth 1938
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

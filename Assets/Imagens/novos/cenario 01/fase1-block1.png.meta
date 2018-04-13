@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 95d309dc582d63d42b7339152069dc77
+timeCreated: 1522025176
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fase1-block1_0
+    21300002: fase1-block1_1
+    21300004: fase1-block1_2
+    21300006: fase1-block1_3
+    21300008: fase1-block1_4
+    21300010: fase1-block1_5
+    21300012: fase1-block1_6
+    21300014: fase1-block1_7
+    21300016: fase1-block1_8
+    21300018: fase1-block1_9
+    21300020: fase1-block1_10
+    21300022: fase1-block1_11
+    21300024: fase1-block1_12
+    21300026: fase1-block1_13
+    21300028: fase1-block1_14
+    21300030: fase1-block1_15
+    21300032: fase1-block1_16
+    21300034: fase1-block1_17
+    21300036: fase1-block1_18
+    21300038: fase1-block1_19
+    21300040: fase1-block1_20
+    21300042: fase1-block1_21
+    21300044: fase1-block1_22
+    21300046: fase1-block1_23
+    21300048: fase1-block1_24
+    21300050: fase1-block1_25
+    21300052: fase1-block1_26
+    21300054: fase1-block1_27
+    21300056: fase1-block1_28
+    21300058: fase1-block1_29
+    21300060: fase1-block1_30
+    21300062: fase1-block1_31
+    21300064: fase1-block1_32
+    21300066: fase1-block1_33
+    21300068: fase1-block1_34
+    21300070: fase1-block1_35
+    21300072: fase1-block1_36
+    21300074: fase1-block1_37
+    21300076: fase1-block1_38
+    21300078: fase1-block1_39
+    21300080: fase1-block1_40
+    21300082: fase1-block1_41
+    21300084: fase1-block1_42
+    21300086: fase1-block1_43
+    21300088: fase1-block1_44
+    21300090: fase1-block1_45
+    21300092: fase1-block1_46
+    21300094: fase1-block1_47
+    21300096: fase1-block1_48
+    21300098: fase1-block1_49
+    21300100: fase1-block1_50
+    21300102: fase1-block1_51
+    21300104: fase1-block1_52
+    21300106: fase1-block1_53
+    21300108: fase1-block1_54
+    21300110: fase1-block1_55
+    21300112: fase1-block1_56
+    21300114: fase1-block1_57
+    21300116: fase1-block1_58
+    21300118: fase1-block1_59
+    21300120: fase1-block1_60
+    21300122: fase1-block1_61
+    21300124: fase1-block1_62
+    21300126: fase1-block1_63
+    21300128: fase1-block1_64
+    21300130: fase1-block1_65
+    21300132: fase1-block1_66
+    21300134: fase1-block1_67
+    21300136: fase1-block1_68
+    21300138: fase1-block1_69
+    21300140: fase1-block1_70
+    21300142: fase1-block1_71
+    21300144: fase1-block1_72
+    21300146: fase1-block1_73
+    21300148: fase1-block1_74
+    21300150: fase1-block1_75
+    21300152: fase1-block1_76
+    21300154: fase1-block1_77
+    21300156: fase1-block1_78
+    21300158: fase1-block1_79
+    21300160: fase1-block1_80
+    21300162: fase1-block1_81
+    21300164: fase1-block1_82
+    21300166: fase1-block1_83
+    21300168: fase1-block1_84
+    21300170: fase1-block1_85
+    21300172: fase1-block1_86
+    21300174: fase1-block1_87
+    21300176: fase1-block1_88
+    21300178: fase1-block1_89
+    21300180: fase1-block1_90
+    21300182: fase1-block1_91
+    21300184: fase1-block1_92
+    21300186: fase1-block1_93
+    21300188: fase1-block1_94
+    21300190: fase1-block1_95
+    21300192: fase1-block1_96
+    21300194: fase1-block1_97
+    21300196: fase1-block1_98
+    21300198: fase1-block1_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fase1-block1_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1087
+        width: 545
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_1
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1091
+        width: 583
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1112
+        width: 563
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 797
+        width: 461
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 793
+        width: 378
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_5
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 803
+        width: 344
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_6
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 797
+        width: 348
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 445
+        width: 250
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 461
+        width: 242
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 453
+        width: 255
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 461
+        width: 279
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 432
+        width: 536
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 103
+        width: 261
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 92
+        width: 257
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 142
+        width: 600
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fase1-block1_15
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 96
+        width: 517
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

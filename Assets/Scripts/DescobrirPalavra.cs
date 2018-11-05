@@ -7,14 +7,14 @@ using UnityEngine.SceneManagement;
 public class DescobrirPalavra : MonoBehaviour {
 	//public static Text palavraDigitada;
 	public InputField meuInput;
-	private GameObject JogadorFase;
+	public GameObject JogadorFase;
 	public float distancia;
 	public GameObject quadradoBranco;
 
 	// Use this for initialization
 	void Start () {
 		meuInput.DeactivateInputField();
-		JogadorFase = GameObject.FindWithTag("Player");
+
 	}
 	
 	// Update is called once per frame
@@ -28,7 +28,7 @@ public class DescobrirPalavra : MonoBehaviour {
 			meuInput.DeactivateInputField();
 		}
 
-		if (meuInput.text == "frio") {
+		if (meuInput.text == "fase") {
 			SceneManager.LoadScene ("parabens");
 		}
 	}

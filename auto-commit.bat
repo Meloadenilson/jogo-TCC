@@ -5,4 +5,4 @@ git status
 
 git commit -a -m %1
 
-git push origin gh-pages
+git push origin master

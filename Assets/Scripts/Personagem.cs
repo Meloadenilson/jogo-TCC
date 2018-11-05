@@ -68,7 +68,7 @@ public class Personagem : MonoBehaviour {
 	}
 
 	public void update(){
-		
+
 	}
 
 	public void FixedUpdate()
@@ -94,7 +94,7 @@ public class Personagem : MonoBehaviour {
 			Vire ();
 		if (axis < 0 && ladoDireito)
 			Vire ();
-		
+
 		if (!naParede) {
 			velocidade = new Vector2 (axis * MaxVelocidade, GetComponent<Rigidbody2D> ().velocity.y);
 			animator.SetFloat ("Velocidade", Mathf.Abs (axis));
@@ -139,7 +139,7 @@ public class Personagem : MonoBehaviour {
 		if (naParede) {
 			animator.SetFloat ("Velocidade", 0);
 		}
-	
+
 
 		/* Verificamos se o personagem está no chão e se o botão de pulo foi pressionado.
 	 * Se sim, adicionamos uma força no eixo Y com a variavel forcaY,
@@ -151,7 +151,7 @@ public class Personagem : MonoBehaviour {
 		}
 
 	}
-	
+
 
 	// Faz a imagem olhar para o lado oposto;
 	void Vire(){

@@ -36,17 +36,17 @@ public class contagemIcones : MonoBehaviour {
 		{
 			
 			Destroy (r);
-			letrasPegas = letrasPegas + "r";
+			letrasPegas = letrasPegas + "a";
 		} else if (colisao.gameObject.tag == "i") 
 		{
 			
 			Destroy (i);
-			letrasPegas = letrasPegas + "i";
+			letrasPegas = letrasPegas + "s";
 		} else if (colisao.gameObject.tag == "o") 
 		{
 			
 			Destroy (o);
-			letrasPegas = letrasPegas + "o";
+			letrasPegas = letrasPegas + "e";
 		}
 	}
 }
